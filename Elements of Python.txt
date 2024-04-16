@@ -1,0 +1,54 @@
+- Elements of Python:
+	+ Vocalburary/Words: variables and reserved words (chap 2)
+	+ sentence struture: valid syntax patterns (chap 3-5)
+	+ story stucture: constructing a program for a purpose
+
+- Reserved Words:
+False      class      finally    is         return
+None       continue   for        lambda     try
+True       def        from       nonlocal   while
+and        del        global     not        with
+as         elif       if         or         yield
+assert     else       import     pass
+break      except     in         raise
+
+- Sentences/Lines:
+x = 2		<--- assignment statement
+x = x + 2	<--- assignment with expression
+print(x)	<--- print statement
+
+x:		variable
+"=", "+":	operator
+2:		constant
+print:		reserved word
+
+- Sequential Steps: when program is running, it folows one step to the next step. Programmers set up "path" for the program to follow
+x = 2
+print(x)
+x = x + 2
+print(x)
+
+- Conditional Steps: syntax tend to be used is "if"
+x = 5
+if x < 10
+   print('smaller')
+if x > 20
+   print('bigger')
+print('finis')
+
+---> OUTPUT: smaller
+	     finis
+
+- Repeated Steps (Loops): have iteration variables that change each time throuh a loop (syntax: for, while)
+n = 5 
+while n > 0:
+   print(n)
+   n = n - 1
+print('Blastoff')
+
+---> OUTPUT: 	5
+		4
+		3
+		2
+		1
+		Blastoff

@@ -1,0 +1,9 @@
+- Central Processing Unit (CPU): run the Program 
+
+- Input Devices: keyboard, mouse, touch screen ...
+
+- Output Devices: screen, speakers, printer ...
+
+- Main Memory (RAM): fast small temporary storage, lost on reboot
+
+- Secondary Memory (disk drive/memory stick): slower large permanent storage, lasts until deleted
